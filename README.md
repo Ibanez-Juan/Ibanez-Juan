@@ -37,7 +37,7 @@ Eu me chamo Juan, sou Desenvolvedor Web tenho 21 anos e sou apaixonado por Tecno
 - 👯 Estou procurando colaborar em html, css, js, react, react-native, node, typescript, projetos utilizando o figma,  
 - 🤔 Estou procurando ajuda com Controllers e Hooks afim de aprender melhor o funcionamento de cada um deles.
 - 💬 Pergunte-me sobre Desenvolvimento para Web e Mobile.
-- - 📫 Como entrar em contato comigo: **18juan.ibanez18@gmail.com**
+- 📫 Como entrar em contato comigo: **18juan.ibanez18@gmail.com**
 - ⚡ Fun fact **Oneye 😜**
 
 ### :chart_with_upwards_trend: Estatísticas:
