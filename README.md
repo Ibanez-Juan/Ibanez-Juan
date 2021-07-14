@@ -25,6 +25,7 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)&nbsp;
 
 ### :rocket: Linguagens e ferramentas:
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
@@ -47,11 +48,13 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado 
 
 ### :briefcase: Redes sociais:
 
-<p align = "left">
-<a href="https://www.facebook.com/profile.php?id=100023722371470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juanibanez" height="20" width="20" /></a>
-<a href="https://www.instagram.com/juan_ibanezf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juanibanez" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/juan-ibanez1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juanibanez" height="20" width="20" /></a>
-</p>
+<div align="left">
+
+[![Facebook Badge](https://img.shields.io/badge/-Juan_Ibanez-6633cc?style=flat-square&labelColor=6633cc&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023722371470/)](https://www.facebook.com/profile.php?id=100023722371470)
+[![Instagram Badge](https://img.shields.io/badge/-juan_ibanezf-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/juan_ibanezf/)](https://www.instagram.com/juan_ibanezf/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Ibanez-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ibanez1/)](https://www.linkedin.com/in/juan-ibanez1/)
+
+</div>
 
 <!--
 **Ibanez-Juan/Ibanez-Juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
