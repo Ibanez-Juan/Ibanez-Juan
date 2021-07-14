@@ -40,12 +40,6 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado 
 - 💬 Pergunte-me sobre Desenvolvimento para Web e Mobile.
 - 📫 Como entrar em contato comigo: **18juan.ibanez18@gmail.com**
 
-### :chart_with_upwards_trend: Estatísticas:
-<p align = "left">
-<a href="https://github.com/Ibanez-Juan"><img src="https://github-readme-stats.vercel.app/api?username=Ibanez-Juan&show_icons=true&include_all_commits=true&count_private=true" alt="juanibanez"/></a>
-<a href="https://github.com/Ibanez-Juan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibanez-Juan&layout=compact" /></a> 
-</p> 
-
 ### :briefcase: Redes sociais:
 
 <div align="left">
@@ -55,6 +49,12 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Ibanez-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ibanez1/)](https://www.linkedin.com/in/juan-ibanez1/)
 
 </div>
+
+### :chart_with_upwards_trend: Estatísticas:
+<p align = "left">
+<a href="https://github.com/Ibanez-Juan"><img src="https://github-readme-stats.vercel.app/api?username=Ibanez-Juan&show_icons=true&include_all_commits=true&count_private=true" alt="juanibanez"/></a>
+<a href="https://github.com/Ibanez-Juan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibanez-Juan&layout=compact" /></a> 
+</p> 
 
 <!--
 **Ibanez-Juan/Ibanez-Juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
