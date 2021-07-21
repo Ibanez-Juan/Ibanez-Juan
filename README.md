@@ -1,10 +1,10 @@
-<h1 align="left">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,</br> I'm Juan Ibañez <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h1> 
+<h1 align="left">Hi there :wave:,</br> I'm Juan Ibañez <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h1> 
 
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
 Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado por Tecnologia. Sou estudante de Sistemas de Informação na UNDB e estou no 6º Período.
-- 🔭 Atualmente estou apenas estudando.
+- 🔭 Atualmente estou estudando Sistemas de Informação(SI) na UNDB.
 - 🌱 Estou aprendendo:
 
 ### :computer: Front-end Stack
@@ -35,7 +35,7 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor Web, tenho 21 anos e sou apaixonado 
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
 <img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
-- 👯 Estou buscando colaborar em html, css, js, react, react-native, node, typescript ou em projetos utilizando o figma. 
+- 👯 Busco colaborar em html, css, js, react, react-native, node, typescript ou em projetos utilizando o figma. 
 - 🤔 Estou procurando ajuda com Controllers e Hooks afim de aprender melhor o funcionamento de cada um deles.
 - 💬 Pergunte-me sobre Desenvolvimento para Web e Mobile.
 - 📫 Como entrar em contato comigo: **18juan.ibanez18@gmail.com**
